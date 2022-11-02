@@ -1,0 +1,23 @@
+Have the following sections:
+Home (greeting page)
+Bio/About Me (your background)
+Resume (past work experience)
+Projects (a place to hold interesting projects that you build -- we'll be adding to this as we build more applications in class)
+Links (links to your GitHub, LinkedIn, and other sites you find interesting)
+TIP: Possible implementation of this section could be a
+element.
+Use JS to create at least three points of interaction for the user (e.g. the user clicks on something and something happens). Write these from scratch. Each point should be a different kind of interaction (i.e. don't just create 3 modals).
+Implement responsive design (i.e. it should be fully functional on desktop, tablet, mobile, etc.).
+
+
+
+Have the following sections:
+Home (greeting page)
+Bio/About Me (your background)
+Resume (past work experience)
+Projects (a place to hold interesting projects that you build -- we'll be adding to this as we build more applications in class)
+Links (links to your GitHub, LinkedIn, and other sites you find interesting)
+TIP: Possible implementation of this section could be a
+element.
+Use JS to create at least three points of interaction for the user (e.g. the user clicks on something and something happens). Write these from scratch. Each point should be a different kind of interaction (i.e. don't just create 3 modals).
+Implement responsive design (i.e. it should be fully functional on desktop, tablet, mobile, etc.).

@@ -1,0 +1,131 @@
+html {
+    display: block;
+}
+
+
+* {
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.side {
+    flex: 30%;
+    background-color: hex(E0B1CB);
+    padding: 20px;
+}
+.main {
+    flex: 70px;
+    background-color: white;
+    padding: 20px;
+}
+@media screen and (max-width: 700px)
+{
+    .row {
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 400px)
+{
+    .navbar a {
+        float: none;
+        width: 100;
+    }
+}
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: var(--color-plum);
+}
+:root {
+    --color-primary: white;
+    --color-secondary: apricot;
+    --color-melon: var(--color-melon);
+    --color-pink: hex(E5989B);
+    --color-plum: var(--color-plum);
+    --color-lavendar: hex(B5838D);
+    --color-pink_lavendar: hex(E0B1CB);
+    --color-lilac: hex(BE95C4);
+    --color-cultured: hex(E9ECEF);
+    --color-Gaingboro: hex(DEE2E6);
+    --br-s2: 14px;
+}
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+    background-color: plum;
+
+    
+}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.navbar {
+    overflow: hidden; 
+    background-color: hex(DEE2E6);
+}
+.navbar a{
+    float: right;
+    display: block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration:none;
+}
+.navbar a.right {
+    float: right;
+    padding-top: 10px;
+}
+.navbar a:hover {
+    background-color: plum ;
+    color: black;
+    padding-left: 10px;
+}
+body {
+    background-color: var(--color-primary);
+    font-family: 'Great Vibes', sans-serif;
+    font-size: 1.1rem;
+    color: ghostwhite;
+    transition: .4s ease-in-out;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+    font-family: inherit;
+}
+
+header {
+    height: 100%;
+    color: ghostwhite;
+    overflow: hidden;
+    padding: 80px;
+    text-align: center;
+    background-color: palevioletred;
+    color: white;
+}
+
+section {
+    min-height: 100vh;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 3rem 18rem;
+    background-color: plum;
+}

@@ -1,7 +1,92 @@
 html {
     display : block;
+    background-color: plum;
 }
-h1 {
-    text-align: center;
+h1{
 
+}
+body{
+    background-color: pink;
+    font-family: great vibes, sans-serif;
+    display: block;
+
+
+
+}
+header{
+    text-align: center;
+    padding: 5px;
+
+}
+.div {
+    background-color: ;
+    margin: 20px;
+    text-align: center;
+    overflow: hidden;
+    padding: 10px;
+
+
+}
+h2 {
+    display: inline;
+    text-align: center;
+    padding: 50px;
+
+}
+img {
+    <img src: https: //images.unsplash.com/photo-1611601147557-cdc89476ec4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60>
+    width: 90%;
+
+}
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+} */
+/* :root {
+    --color-primary: white;
+    --color-secondary: apricot;
+    --color-melon: var(--color-melon);
+    --color-pink: hex(E5989B);
+    --color-plum: var(--color-plum);
+    --color-lavendar: hex(B5838D);
+    --color-pink_lavendar: hex(E0B1CB);
+    --color-lilac: hex(BE95C4);
+    --color-cultured: hex(E9ECEF);
+    --color-Gaingboro: hex(DEE2E6);
+    --br-s 2: 14px;
+} */
+/* h1 {
+    text-align: center;
+}
+ body   {
+    background-color: var(--color-primary);
+    font-family: 'Great Vibes', sans-serif;
+    font-size: 1.1rem;
+    color: ghostwhite;
+    transition: .4s ease-in-out;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+    font-family: inherit;
+}
+
+/* header {
+    height: 100%;
+    color: ghostwhite;
+    overflow: hidden;
+} */ */
+
+section {
+    min-height: 100vh;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 3rem 18rem;
+    background-color: hex(E9ECEF);
 }

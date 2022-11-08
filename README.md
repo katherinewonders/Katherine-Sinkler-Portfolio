@@ -7,19 +7,22 @@ src="https://user-images.githubusercontent.com/115842343/200481594-4d6e7bd5-13d3
 
 [ x] 2. List of the Technologies used:
 Code Style:
-I created each page as a directory within my terminal. Each page contains a css stylesheet, an index.html page and a JS page.  i didnt personally use JS at all.  The pages were all coded in my editior of choice, "VSCode". I tried to focus on one page at a time, none the less, i designed the portfolio as a collect.  The portfolio contains insperation from W3Schools, tiktockers.
+I created each page as a directory within my terminal. Each page contains a css stylesheet, an index.html page and a JS page.  i didnt personally use JS at all.  The pages were all coded in my editior of choice, "VSCode". I tried to focus on one page at a time, none the less, i designed the portfolio as a collect.  The portfolio contains insperation from W3Schools, tiktockers, and youtube.
 
 [ x] 3. Installation instructions: See above to numer 2.
-its rreally simple over all. I let the coing over take me and we went on an adventure.
+its really simple over all. I let the coding take over and we went on an adventure.
 
-[ ] 4. Your User stories – who are your users, what do they want and why?
-The users will be the teacher who grades this assignment and future employers hopely too. The user should be able to easily read and comprehend my portfolio to see my skills, capabilities according to these huble beginnings
+[x ] 4. Your User stories – who are your users, what do they want and why?
+The users will be the teacher who grades this assignment and future employer perspectives as well. The user should be able to easily read and comprehend my portfolio to see my skills and capabilities according to these humble beginnings
 
 [ ] 5. Your Wireframes – sketches of major views / interfaces in your application.
-To be contiunne you.
+![IMG_0144](https://user-images.githubusercontent.com/115842343/200580312-99fe797c-12a2-40a5-b6ff-71e925f8c4a5.PNG)
+![IMG_0145](https://user-images.githubusercontent.com/115842343/200580819-64706b67-1964-470f-bf58-9d8d013cee0f.PNG)
+![IMG_0143](https://user-images.githubusercontent.com/115842343/200581214-4892a426-7672-4d9e-9a3b-2c5d816fa643.PNG)
 
-[ ] 6. Descriptions of any Unsolved problems or major hurdles you had to overcome.
-I had a lot of problems with the CSS file for the about me page. It is stll a work in prgress.
+
+[x ] 6. Descriptions of any Unsolved problems or major hurdles you had to overcome.
+I had a lot of problems with the CSS in general; my buttons, picture and formats were just not what I pictured. It is stll a work in progress.I now realize that a lot of this could have been balanced out by incorporating JavaScript and the DOM/DOM Events.
 
 [ ] 7. A link to your hosted project in the URL section of your Github repo (see below).
 
